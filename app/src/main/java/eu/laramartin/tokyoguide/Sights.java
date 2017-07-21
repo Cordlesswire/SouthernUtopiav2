@@ -26,7 +26,7 @@ public class Sights {
                 context.getString(R.string.sight_goldreefcity_address),
                 context.getString(R.string.sight_goldreefcity_phone),
                 context.getString(R.string.sight_goldreefcity_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_goldreefcity_price),
                 R.drawable.sight_goldreefcity
         ));
 
@@ -36,7 +36,7 @@ public class Sights {
                 context.getString(R.string.sight_maboneng_address),
                 context.getString(R.string.sight_maboneng_phone),
                 context.getString(R.string.sight_maboneng_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_maboneng_price),
                 R.drawable.sight_maboneng
         ));
 
@@ -46,7 +46,7 @@ public class Sights {
                 context.getString(R.string.sight_mandelabridge_address),
                 context.getString(R.string.sight_mandelabridge_phone),
                 context.getString(R.string.sight_mandelabridge_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_mandelabridge_price),
                 R.drawable.sight_mandelabridge
         ));
 
@@ -56,7 +56,7 @@ public class Sights {
                 context.getString(R.string.sight_soccercity_address),
                 context.getString(R.string.sight_soccercity_phone),
                 context.getString(R.string.sight_soccercity_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_soccercity_price),
                 R.drawable.sight_soccercity
         ));
 
@@ -66,7 +66,7 @@ public class Sights {
                 context.getString(R.string.sight_soweto_bungee_address),
                 context.getString(R.string.sight_soweto_bungee_phone),
                 context.getString(R.string.sight_soweto_bungee_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_soweto_bungee_price),
                 R.drawable.sight_soweto_bungee
         ));
 
@@ -76,7 +76,7 @@ public class Sights {
                 context.getString(R.string.sight_union_buildings_address),
                 context.getString(R.string.sight_union_buildings_phone),
                 context.getString(R.string.sight_union_buildings_schedule),
-                context.getString(R.string.sight_price_free),
+                context.getString(R.string.sight_union_buildings_price),
                 R.drawable.sight_union_buildings
         ));
     }

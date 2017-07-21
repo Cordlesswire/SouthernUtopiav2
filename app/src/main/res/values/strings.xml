@@ -14,7 +14,7 @@
     <string name="food_chafpozi_name">Chaf-Pozi</string>
     <string name="food_chafpozi_description">Ambiance: Authentic culture, Comfy and Casual. \n Food: African, Deli fare, South African </string>
     <string name="food_chafpozi_address">Corner Chris Hani and Nicholas street, Orlando Towers, Soweto</string>
-    <string name="food_chafpozi_phone">+27 81 797-5756</string>
+    <string name="food_chafpozi_phone">+27 81 797 5756</string>
     <string name="food_chafpozi_schedule">Mo-Fr 11:00–18:00. Sa-Su 11:00-22:00</string>
     <string name="food_chafpozi_price">R80.00 Average Meal</string>
 
@@ -23,7 +23,7 @@
     <string name="food_licorish_name">Licorish Bistro</string>
     <string name="food_licorish_description">Ambiance: Classic elegance, Hip and Happening. \n Food: Bistro fare, Cape Malay, Modern, South African</string>
     <string name="food_licorish_address">432 Nicolway Shopping Centre, Corner of Wedgewood Link and William Nicol Drive, Bryanston, Johannesburg</string>
-    <string name="food_licorish_phone">+27 11 706-0991</string>
+    <string name="food_licorish_phone">+27 11 706 0991</string>
     <string name="food_licorish_schedule">Mo-Fr 12:00–22:30. Sa-Su 09:00-20:30</string>
     <string name="food_licorish_price">R170.00 Average Meal</string>
 
@@ -32,7 +32,7 @@
     <string name="food_luckybean_name">Lucky Bean </string>
     <string name="food_luckybean_description">Ambiance: Authentic culture, Comfy and Casual. \n Food: African, Deli fare, South African </string>
     <string name="food_luckybean_address">16 Seventh Street, Melville, Johannesburg</string>
-    <string name="food_luckybean_phone">+27 11 482-5572</string>
+    <string name="food_luckybean_phone">+27 11 482 5572</string>
     <string name="food_luckybean_schedule">Mo-Su 11:30–23:30</string>
     <string name="food_luckybean_price">R80.00 Average Meal</string>
 
@@ -42,7 +42,7 @@
     <string name="food_marble_name">Marble by David Higgs </string>
     <string name="food_marble_description">Ambiance: Contemporary cool. \n Food: Contemporary fare, Modern </string>
     <string name="food_marble_address">Corner Jan Smuts and Jellico Street, Rosebank, Johannesburg</string>
-    <string name="food_marble_phone">+27 10 594-5550</string>
+    <string name="food_marble_phone">+27 10 594 5550</string>
     <string name="food_marble_schedule">Mo-Su 12:00–22:00</string>
     <string name="food_marble_price">R230.00 Average Meal</string>
 
@@ -52,7 +52,7 @@
     <string name="food_patapata_name">Pata Pata Restaurant</string>
     <string name="food_patapata_description">Ambiance: Authentic culture, Comfy and Casual, Family friendly. \n Food: African, Modern, South African </string>
     <string name="food_patapata_address">Main Street Life, 286 Fox Street, Maboneng Precinct, Johannesburg</string>
-    <string name="food_patapata_phone">+27 73 036-9031</string>
+    <string name="food_patapata_phone">+27 73 036 9031</string>
     <string name="food_patapata_schedule">Mo-Su 90:00–22:30</string>
     <string name="food_patapata_price">R65.00 Average Meal</string>
 
@@ -61,7 +61,7 @@
     <string name="food_thehill_name">The Hill Café</string>
     <string name="food_thehill_description">Ambiance: Comfy and Casual, Family friendly. \n Food: Café fare, Coffee </string>
     <string name="food_thehill_address">11 Kotze Street, Braamfontein, Johannesburg</string>
-    <string name="food_thehill_phone">+27 11 339-1005</string>
+    <string name="food_thehill_phone">+27 11 339 1005</string>
     <string name="food_thehill_schedule">Mo-Fr 08:00–17:00</string>
     <string name="food_thehill_price">R45.00 Average Meal</string>
 
@@ -69,7 +69,7 @@
     <string name="food_vuyosbraai_name">Vuyo’s Braai</string>
     <string name="food_vuyosbraai_description">Ambiance: Street Culture. \n Food: African, Deli fare, South African </string>
     <string name="food_vuyosbraai_address">Corner Stiemens Street and Bertha Street, Braamfontein, Johannesburg</string>
-    <string name="food_vuyosbraai_phone">+27 11 403-1920</string>
+    <string name="food_vuyosbraai_phone">+27 11 403 1920</string>
     <string name="food_vuyosbraai_schedule">Mo-Su 08:30–18:00</string>
     <string name="food_vuyosbraai_price">R20.00 Average Meal</string>
 
@@ -107,53 +107,59 @@
     <!-- All Events -->
     <!-- Event 1 -->
     <string name="events_backtothecity_name">Back To The City</string>
-    <string name="events_backtothecity_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
-    <string name="events_backtothecity_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
-    <string name="events_backtothecity_phone">+81 3-5289-9933</string>
+    <string name="events_backtothecity_description">Annual Freedom Day Hip Hop Festival.</string>
+    <string name="events_backtothecity_address">http://www.backtothecityfestival.com/</string>
+    <string name="events_backtothecity_phone">+27 82 073 2109</string>
     <string name="events_backtothecity_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
+    <string name="events_backtothecity_price">R150.00-R450.00 Per Young Adult </string>
 
     <!-- Event 2 -->
     <string name="events_dinnerinthesky_name">Dinner in The Sky</string>
-    <string name="events_dinnerinthesky_description">Hobbies supply shop, like figures and character goods.
-        Selling of second hand items too.</string>
-    <string name="events_dinnerinthesky_address">1 Chome-11-5 Sotokanda, , Chiyoda-ku, Tokyo 101-0021</string>
-    <string name="events_dinnerinthesky_phone">+81 3-5289-3373</string>
-    <string name="events_dinnerinthesky_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_dinnerinthesky_description">Dinner in the Sky is a hosted table suspended at a height of up to 60 metres by crane and executed by a team of professionals. It accommodates for 22 people around the table at every session with three staff in the middle.</string>
+    <string name="events_dinnerinthesky_address">Val Bonne Country Estate, Modderfontein Nature Reserve, Johannesburg</string>
+    <string name="events_dinnerinthesky_phone">+27 84 449 6040</string>
+    <string name="events_dinnerinthesky_schedule">Sat </string>
+    <string name="events_dinnerinthesky_price">Lunch : R420.00 Per Person. Afternoon Snack: R295.00 Per Person (60 min. experience)</string>
 
     <!-- Event 3 -->
     <string name="events_jozibookfair_name">Jozi Book Fair</string>
     <string name="events_jozibookfair_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
-    <string name="events_jozibookfair_address">5-52-15 Nakano, Tokyo 164-0001</string>
-    <string name="events_jozibookfair_phone">+81 3-3388-7004</string>
+    <string name="events_jozibookfair_address">Aug - 3 Sept 2017, Mary Fitzgerald Square, Newtown. (Venue Changes Every Year)</string>
+    <string name="events_jozibookfair_phone">+27 11 339 1005</string>
     <string name="events_jozibookfair_schedule">Mo-Su 12:00–20:00</string>
+    <string name="events_jozibookfair_price">R20.00 Average Meal</string>
 
     <!-- Event 4 -->
     <string name="events_outdoorscreening_name">Outdoor Movie Screening</string>
-    <string name="events_outdoorscreening_description">Toy shop since 1950</string>
-    <string name="events_outdoorscreening_address">6-1-9 Jingumae, Shibuya, Tokyo 150-0001</string>
-    <string name="events_outdoorscreening_phone">+81 3-3409-3431</string>
-    <string name="events_outdoorscreening_schedule">Mo-Su 10:30–21:00</string>
+    <string name="events_outdoorscreening_description">Maboneng Precinct Kruger street will be closed especially for the screening, bring your blankets, grab a beanbag, complimentary Jameson welcome drinks and popcorn, sit and enjoy the film! </string>
+    <string name="events_outdoorscreening_address">Main Street Life, 286 Fox Street, Maboneng Precinct, Johannesburg</string>
+    <string name="events_outdoorscreening_phone">+27 11 339 1005</string>
+    <string name="events_outdoorscreening_schedule">April at 20:00</string>
+    <string name="events_outdoorscreening_price">R100.00 Per Adult (No Children Allowed)</string>
 
     <!-- Event 5 -->
     <string name="events_sowetotheatre_name">Soweto Theatre</string>
     <string name="events_sowetotheatre_description">Biggest 100 yen shop.</string>
     <string name="events_sowetotheatre_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
-    <string name="events_sowetotheatre_phone">+81 3-5312-6656</string>
+    <string name="events_sowetotheatre_phone">+27 11 339 1005</string>
     <string name="events_sowetotheatre_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_sowetotheatre_price">R20.00 Average Meal</string>
 
     <!-- Event 6 -->
     <string name="events_strcrd_name">Str Crd</string>
     <string name="events_strcrd_description">Anime and manga second hand shop.</string>
-    <string name="events_strcrd_address">3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021</string>
-    <string name="events_strcrd_phone">+81 3-3252-7007</string>
+    <string name="events_strcrd_address">Venue Changes Every Year</string>
+    <string name="events_strcrd_phone">+27 11 339 1005</string>
     <string name="events_strcrd_schedule">Mo-Su 12:00–21:00</string>
+    <string name="events_strcrd_price">R20.00 Average Meal</string>
 
     <!-- Event 7 -->
     <string name="events_vsgaming_name">VS Gaming Festival</string>
     <string name="events_vsgaming_description">Bookstore with 9 floors.</string>
     <string name="events_vsgaming_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
-    <string name="events_vsgaming_phone">+81 3-3354-0131</string>
+    <string name="events_vsgaming_phone">+27 11 339 1005</string>
     <string name="events_vsgaming_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_vsgaming_price">R20.00 Average Meal</string>
 
 
 
@@ -165,7 +171,7 @@
     <string name="sight_humankind_name">The Cradle of Humankind</string>
     <string name="sight_humankind_description">The Cradle of Humankind is renowned as the place where humankind originated.</string>
     <string name="sight_humankind_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
-    <string name="sight_humankind_phone">+81 570-055-777</string>
+    <string name="sight_humankind_phone">+27 11 339 1005</string>
     <string name="sight_humankind_schedule">10:00–18:00. Tuesdays closed.</string>
     <string name="sight_humankind_price">R60 - R175</string>
 
@@ -176,9 +182,10 @@
         including the main palace, the private residences of the Imperial Family, an archive,
         museums and administrative offices.</string>
     <string name="sight_goldreefcity_address">1-1 Chiyoda, Tokyo 100-8111</string>
-    <string name="sight_goldreefcity_phone">+81 3-3213-1111</string>
-    <string name="sight_goldreefcity_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
-    <string name="sight_price_free">Free</string>
+    <string name="sight_goldreefcity_phone">+27 11 339 1005</string>
+    <string name="sight_goldreefcity_schedule"> bvhm</string>
+    <string name="sight_goldreefcity_price">R60 - R175</string>
+
 
 
                      <!-- Sight Location 3 -->
@@ -187,8 +194,9 @@
         those who died in service of the Empire of Japan, which existed from the Meiji
         Restoration of 1869 until the nation was renamed during the Allied occupation in 1947.</string>
     <string name="sight_maboneng_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
-    <string name="sight_maboneng_phone">+81 3-3261-8326</string>
+    <string name="sight_maboneng_phone">+27 11 339 1005</string>
     <string name="sight_maboneng_schedule">Always open</string>
+    <string name="sight_maboneng_price">Free</string>
 
 
                  <!-- Sight Location 4 -->
@@ -197,8 +205,9 @@
         gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
         after achieving happiness for his people.</string>
     <string name="sight_mandelabridge_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
-    <string name="sight_mandelabridge_phone">+81 3-3811-3015</string>
+    <string name="sight_mandelabridge_phone">+27 11 339 1005</string>
     <string name="sight_mandelabridge_schedule">9:00-17:00</string>
+    <string name="sight_mandelabridge_price">Free</string>
 
 
                  <!-- Sight Location 5 -->
@@ -207,8 +216,9 @@
         It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
         scrappers.</string>
     <string name="sight_soccercity_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
-    <string name="sight_soccercity_phone">+81 3-3581-2471</string>
+    <string name="sight_soccercity_phone">+27 11 339 1005</string>
     <string name="sight_soccercity_schedule">5:00–18:00</string>
+    <string name="sight_soccercity_price">Free</string>
 
 
 
@@ -218,8 +228,9 @@
         for his remarkable loyalty to his owner which continued for more than nine years
         after his owner\'s death.</string>
     <string name="sight_soweto_bungee_address">1 Dogenzaka, Shibuya Train Station, Shibuya 150-0043</string>
-    <string name="sight_soweto_bungee_phone">+81 3-3378-1703</string>
+    <string name="sight_soweto_bungee_phone">+27 11 339 1005</string>
     <string name="sight_soweto_bungee_schedule">Always open</string>
+    <string name="sight_soweto_bungee_price">Free</string>
 
 
                         <!-- Sight Location 7 -->
@@ -228,6 +239,7 @@
         Government. It has a free observatory on the 45th floor of both the
         North and South Towers</string>
     <string name="sight_union_buildings_address">1, 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo</string>
-    <string name="sight_union_buildings_phone">+81 3-5321-1111</string>
+    <string name="sight_union_buildings_phone">+27 11 339 10051</string>
     <string name="sight_union_buildings_schedule">8:00-18:45. Weekends closed</string>
+    <string name="sight_union_buildings_price">Free</string>
 </resources>

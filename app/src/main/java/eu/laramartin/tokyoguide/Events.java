@@ -16,7 +16,7 @@ public class Events {
                 context.getString(R.string.events_backtothecity_address),
                 context.getString(R.string.events_backtothecity_phone),
                 context.getString(R.string.events_backtothecity_schedule),
-                null,
+                context.getString(R.string.events_backtothecity_price),
                 R.drawable.events_backtothecity
         ));
 
@@ -26,7 +26,7 @@ public class Events {
                 context.getString(R.string.events_dinnerinthesky_address),
                 context.getString(R.string.events_dinnerinthesky_phone),
                 context.getString(R.string.events_dinnerinthesky_schedule),
-                null,
+                context.getString(R.string.events_dinnerinthesky_price),
                 R.drawable.events_dinnerinthesky
         ));
 
@@ -36,7 +36,7 @@ public class Events {
                 context.getString(R.string.events_jozibookfair_address),
                 context.getString(R.string.events_jozibookfair_phone),
                 context.getString(R.string.events_jozibookfair_schedule),
-                null,
+                context.getString(R.string.events_jozibookfair_price),
                 R.drawable.events_jozibookfair
         ));
 
@@ -46,7 +46,7 @@ public class Events {
                 context.getString(R.string.events_outdoorscreening_address),
                 context.getString(R.string.events_outdoorscreening_phone),
                 context.getString(R.string.events_outdoorscreening_schedule),
-                null,
+                context.getString(R.string.events_backtothecity_price),
                 R.drawable.events_outdoorscreening
         ));
 
@@ -56,7 +56,7 @@ public class Events {
                 context.getString(R.string.events_sowetotheatre_address),
                 context.getString(R.string.events_sowetotheatre_phone),
                 context.getString(R.string.events_sowetotheatre_schedule),
-                null,
+                context.getString(R.string.events_sowetotheatre_price),
                 R.drawable.events_sowetotheatre
         ));
 
@@ -66,7 +66,7 @@ public class Events {
                 context.getString(R.string.events_strcrd_address),
                 context.getString(R.string.events_strcrd_phone),
                 context.getString(R.string.events_strcrd_schedule),
-                null,
+                context.getString(R.string.events_strcrd_price),
                 R.drawable.events_strcrd
         ));
 
@@ -76,7 +76,7 @@ public class Events {
                 context.getString(R.string.events_vsgaming_address),
                 context.getString(R.string.events_vsgaming_phone),
                 context.getString(R.string.events_vsgaming_schedule),
-                null,
+                context.getString(R.string.events_vsgaming_price),
                 R.drawable.events_vsgaming
         ));
 
