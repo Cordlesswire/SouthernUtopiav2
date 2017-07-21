@@ -155,11 +155,11 @@
 
     <!-- Event 7 -->
     <string name="events_vsgaming_name">VS Gaming Festival</string>
-    <string name="events_vsgaming_description">Bookstore with 9 floors.</string>
-    <string name="events_vsgaming_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
-    <string name="events_vsgaming_phone">+27 11 339 1005</string>
-    <string name="events_vsgaming_schedule"> 12:00–01:00</string>
-    <string name="events_vsgaming_price">R50.00 (For children under 12 it\'s Free)</string>
+    <string name="events_vsgaming_description">Two days of soccer esports for casual or serious gamers, with music and entertainment for friends and family. Reserve your spot to play FIFA 17 and win a share R1.5 million.</string>
+    <string name="events_vsgaming_address">Gallagher Convention Centre, 19 Richard Drive, Midrand, Johannesburg, 1685</string>
+    <string name="events_vsgaming_phone">+27 11 266 3000</string>
+    <string name="events_vsgaming_schedule"> 22-23 July 2017</string>
+    <string name="events_vsgaming_price">R100.00</string>
 
 
 
