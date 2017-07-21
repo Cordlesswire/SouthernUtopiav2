@@ -108,9 +108,9 @@
     <!-- Event 1 -->
     <string name="events_backtothecity_name">Back To The City</string>
     <string name="events_backtothecity_description">Annual Freedom Day Hip Hop Festival.</string>
-    <string name="events_backtothecity_address">http://www.backtothecityfestival.com/</string>
+    <string name="events_backtothecity_address">Corner Bree and Henry Nxumalo, Newtown, 111 Ritual store</string>
     <string name="events_backtothecity_phone">+27 82 073 2109</string>
-    <string name="events_backtothecity_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
+    <string name="events_backtothecity_schedule">27 April 10:00 - 03:00 (Yearly Event)</string>
     <string name="events_backtothecity_price">R150.00-R450.00 Per Young Adult </string>
 
     <!-- Event 2 -->
@@ -118,7 +118,7 @@
     <string name="events_dinnerinthesky_description">Dinner in the Sky is a hosted table suspended at a height of up to 60 metres by crane and executed by a team of professionals. It accommodates for 22 people around the table at every session with three staff in the middle.</string>
     <string name="events_dinnerinthesky_address">Val Bonne Country Estate, Modderfontein Nature Reserve, Johannesburg</string>
     <string name="events_dinnerinthesky_phone">+27 84 449 6040</string>
-    <string name="events_dinnerinthesky_schedule">Sat </string>
+    <string name="events_dinnerinthesky_schedule">Saturdays </string>
     <string name="events_dinnerinthesky_price">Lunch : R420.00 Per Person. Afternoon Snack: R295.00 Per Person (60 min. experience)</string>
 
     <!-- Event 3 -->
