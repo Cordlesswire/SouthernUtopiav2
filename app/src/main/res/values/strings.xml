@@ -110,8 +110,8 @@
     <string name="events_backtothecity_description">Annual Freedom Day Hip Hop Festival.</string>
     <string name="events_backtothecity_address">Corner Bree and Henry Nxumalo, Newtown, 111 Ritual store</string>
     <string name="events_backtothecity_phone">+27 82 073 2109</string>
-    <string name="events_backtothecity_schedule">27 April 10:00 - 03:00 (Yearly Event)</string>
-    <string name="events_backtothecity_price">R150.00-R450.00 Per Young Adult </string>
+    <string name="events_backtothecity_schedule">27 April 10:00 -03:00 (Yearly Event)</string>
+    <string name="events_backtothecity_price"> R150.00-R450.00 Per Young Adult </string>
 
     <!-- Event 2 -->
     <string name="events_dinnerinthesky_name">Dinner in The Sky</string>
@@ -119,15 +119,15 @@
     <string name="events_dinnerinthesky_address">Val Bonne Country Estate, Modderfontein Nature Reserve, Johannesburg</string>
     <string name="events_dinnerinthesky_phone">+27 84 449 6040</string>
     <string name="events_dinnerinthesky_schedule">Saturdays </string>
-    <string name="events_dinnerinthesky_price">Lunch : R420.00 Per Person. Afternoon Snack: R295.00 Per Person (60 min. experience)</string>
+    <string name="events_dinnerinthesky_price"> Lunch: R420.00 Per Person. Afternoon Snack: R295.00 Per Person (60 min. experience)</string>
 
     <!-- Event 3 -->
     <string name="events_jozibookfair_name">Jozi Book Fair</string>
-    <string name="events_jozibookfair_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
-    <string name="events_jozibookfair_address">Aug - 3 Sept 2017, Mary Fitzgerald Square, Newtown. (Venue Changes Every Year)</string>
-    <string name="events_jozibookfair_phone">+27 11 339 1005</string>
-    <string name="events_jozibookfair_schedule">Mo-Su 12:00–20:00</string>
-    <string name="events_jozibookfair_price">R20.00 Average Meal</string>
+    <string name="events_jozibookfair_description">The Festival provides a platform for readers, writers, artists, school youth, children, adults and the public to read more.</string>
+    <string name="events_jozibookfair_address">Mary Fitzgerald Square, Newtown. (Venue Changes Every Year)</string>
+    <string name="events_jozibookfair_phone">+27 84 377 3018</string>
+    <string name="events_jozibookfair_schedule">31 Aug - 3 Sept 2017, Mo-Su 09:00–17:00</string>
+    <string name="events_jozibookfair_price"> Free</string>
 
     <!-- Event 4 -->
     <string name="events_outdoorscreening_name">Outdoor Movie Screening</string>
