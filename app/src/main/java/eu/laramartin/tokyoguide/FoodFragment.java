@@ -11,9 +11,7 @@ import android.widget.ListView;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Lara on 03/09/2016.
- */
+
 public class FoodFragment extends Fragment {
 
     @Nullable

@@ -61,21 +61,21 @@ public class Sights {
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_hachikou_name),
-                context.getString(R.string.sight_hachikou_description),
-                context.getString(R.string.sight_hachikou_address),
-                context.getString(R.string.sight_hachikou_phone),
-                context.getString(R.string.sight_hachikou_schedule),
+                context.getString(R.string.sight_soweto_bungee_name),
+                context.getString(R.string.sight_soweto_bungee_description),
+                context.getString(R.string.sight_soweto_bungee_address),
+                context.getString(R.string.sight_soweto_bungee_phone),
+                context.getString(R.string.sight_soweto_bungee_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_soweto_bungee
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_government_building_name),
-                context.getString(R.string.sight_government_building_description),
-                context.getString(R.string.sight_government_building_address),
-                context.getString(R.string.sight_government_building_phone),
-                context.getString(R.string.sight_government_building_schedule),
+                context.getString(R.string.sight_union_buildings_name),
+                context.getString(R.string.sight_union_buildings_description),
+                context.getString(R.string.sight_union_buildings_address),
+                context.getString(R.string.sight_union_buildings_phone),
+                context.getString(R.string.sight_union_buildings_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_union_buildings
         ));

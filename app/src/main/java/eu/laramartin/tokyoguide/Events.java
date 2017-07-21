@@ -8,7 +8,7 @@ import java.util.List;
 
 public class Events {
 
-    public static void initShopsList(List<Location> list, Context context) {
+    public static void initEventsList(List<Location> list, Context context) {
 
         list.add(new Location(
                 context.getString(R.string.shop_potato_name),
@@ -17,7 +17,7 @@ public class Events {
                 context.getString(R.string.shop_potato_phone),
                 context.getString(R.string.shop_potato_schedule),
                 null,
-                R.drawable.shops_super_potato
+                R.drawable.events_backtothecity
         ));
 
         list.add(new Location(
@@ -27,7 +27,7 @@ public class Events {
                 context.getString(R.string.shop_amiami_phone),
                 context.getString(R.string.shop_amiami_schedule),
                 null,
-                R.drawable.shops_amiami
+                R.drawable.events_dinnerinthesky
         ));
 
         list.add(new Location(
@@ -37,7 +37,7 @@ public class Events {
                 context.getString(R.string.shop_nakano_phone),
                 context.getString(R.string.shop_nakano_schedule),
                 null,
-                R.drawable.shops_nakano_broadway
+                R.drawable.events_jozibookfair
         ));
 
         list.add(new Location(
@@ -47,7 +47,7 @@ public class Events {
                 context.getString(R.string.shop_kiddy_phone),
                 context.getString(R.string.shop_kiddy_schedule),
                 null,
-                R.drawable.shops_kiddyland
+                R.drawable.events_outdoorscreening
         ));
 
         list.add(new Location(
@@ -57,7 +57,7 @@ public class Events {
                 context.getString(R.string.shop_daiso_phone),
                 context.getString(R.string.shop_daiso_schedule),
                 null,
-                R.drawable.shops_daiso
+                R.drawable.events_sowetotheatre
         ));
 
         list.add(new Location(
@@ -67,7 +67,7 @@ public class Events {
                 context.getString(R.string.shop_mandarake_phone),
                 context.getString(R.string.shop_mandarake_schedule),
                 null,
-                R.drawable.shops_mandarake
+                R.drawable.events_strcrd
         ));
 
         list.add(new Location(
@@ -77,27 +77,8 @@ public class Events {
                 context.getString(R.string.shop_kinokuniya_phone),
                 context.getString(R.string.shop_kinokuniya_schedule),
                 null,
-                R.drawable.shops_kinokuniya_bookstore
+                R.drawable.events_vsgaming
         ));
 
-        list.add(new Location(
-                context.getString(R.string.shop_biccamera_name),
-                context.getString(R.string.shop_biccamera_description),
-                context.getString(R.string.shop_biccamera_address),
-                context.getString(R.string.shop_biccamera_phone),
-                context.getString(R.string.shop_biccamera_schedule),
-                null,
-                R.drawable.shop_bic_camera
-        ));
-
-        list.add(new Location(
-                context.getString(R.string.shop_donki_name),
-                context.getString(R.string.shop_donki_description),
-                context.getString(R.string.shop_donki_address),
-                context.getString(R.string.shop_donki_phone),
-                context.getString(R.string.shop_donki_schedule),
-                null,
-                R.drawable.shops_don_quijote
-        ));
     }
 }

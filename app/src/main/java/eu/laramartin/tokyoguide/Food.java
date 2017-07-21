@@ -15,7 +15,7 @@ public class Food {
                 context.getString(R.string.food_genki_phone),
                 context.getString(R.string.food_genki_schedule),
                 context.getString(R.string.food_price_two),
-                R.drawable.food_genki_sushi
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -25,7 +25,7 @@ public class Food {
                 context.getString(R.string.food_wako_phone),
                 context.getString(R.string.food_wako_schedule),
                 context.getString(R.string.food_price_two),
-                R.drawable.food_tonkatsu_wako
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -35,7 +35,7 @@ public class Food {
                 context.getString(R.string.food_rokumonya_phone),
                 context.getString(R.string.food_rokumonya_schedule),
                 context.getString(R.string.food_price_two),
-                R.drawable.shop_rokumonya_okonomiyaki
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -45,7 +45,7 @@ public class Food {
                 context.getString(R.string.food_kisoji_phone),
                 context.getString(R.string.food_kisoji_schedule),
                 context.getString(R.string.food_price_four),
-                R.drawable.food_kisoji_shabushabu
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -55,7 +55,7 @@ public class Food {
                 context.getString(R.string.food_gogo_phone),
                 context.getString(R.string.food_gogo_schedule),
                 context.getString(R.string.food_price_one),
-                R.drawable.food_gogo_curry
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -65,7 +65,7 @@ public class Food {
                 context.getString(R.string.food_tenya_phone),
                 context.getString(R.string.food_tenya_schedule),
                 context.getString(R.string.food_price_one),
-                R.drawable.food_tenya
+                R.drawable.sight_cradle_of_humankind
         ));
 
         list.add(new Location(
@@ -75,7 +75,7 @@ public class Food {
                 context.getString(R.string.food_shibukatsu_phone),
                 context.getString(R.string.food_shibukatsu_schedule),
                 context.getString(R.string.food_price_one),
-                R.drawable.food_shibukatsu
+                R.drawable.sight_cradle_of_humankind
         ));
     }
 }
