@@ -139,27 +139,27 @@
 
     <!-- Event 5 -->
     <string name="events_sowetotheatre_name">Soweto Theatre</string>
-    <string name="events_sowetotheatre_description">Biggest 100 yen shop.</string>
-    <string name="events_sowetotheatre_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
-    <string name="events_sowetotheatre_phone">+27 11 339 1005</string>
-    <string name="events_sowetotheatre_schedule">Mo-Su 10:00–21:00</string>
-    <string name="events_sowetotheatre_price">R20.00 Average Meal</string>
+    <string name="events_sowetotheatre_description">The local community hall or school hall becomes the place where aspirant individuals and group of individuals can meet to begin the workshop and rehearse their ideas and work towards the development of a final production.</string>
+    <string name="events_sowetotheatre_address">cnr Bolani Link and Bolani Rd, Jabulani, Soweto, 1868</string>
+    <string name="events_sowetotheatre_phone">+27 11 930 7461</string>
+    <string name="events_sowetotheatre_schedule">Varies per Event</string>
+    <string name="events_sowetotheatre_price">Varies per Event</string>
 
     <!-- Event 6 -->
     <string name="events_strcrd_name">Str Crd</string>
-    <string name="events_strcrd_description">Anime and manga second hand shop.</string>
+    <string name="events_strcrd_description">STR.CRD is Africa\'s #1 street culture brand that manifests itself through events, workshops, and this channel</string>
     <string name="events_strcrd_address">Venue Changes Every Year</string>
     <string name="events_strcrd_phone">+27 11 339 1005</string>
-    <string name="events_strcrd_schedule">Mo-Su 12:00–21:00</string>
-    <string name="events_strcrd_price">R20.00 Average Meal</string>
+    <string name="events_strcrd_schedule">12:00–01:00</string>
+    <string name="events_strcrd_price">R50.00 (For children under 12 it\'s Free)</string>
 
     <!-- Event 7 -->
     <string name="events_vsgaming_name">VS Gaming Festival</string>
     <string name="events_vsgaming_description">Bookstore with 9 floors.</string>
     <string name="events_vsgaming_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
     <string name="events_vsgaming_phone">+27 11 339 1005</string>
-    <string name="events_vsgaming_schedule">Mo-Su 10:00–21:00</string>
-    <string name="events_vsgaming_price">R20.00 Average Meal</string>
+    <string name="events_vsgaming_schedule"> 12:00–01:00</string>
+    <string name="events_vsgaming_price">R50.00 (For children under 12 it\'s Free)</string>
 
 
 
