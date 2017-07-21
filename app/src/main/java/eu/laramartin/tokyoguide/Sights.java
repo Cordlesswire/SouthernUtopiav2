@@ -21,11 +21,11 @@ public class Sights {
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_imperial_name),
-                context.getString(R.string.sight_imperial_description),
-                context.getString(R.string.sight_imperial_address),
-                context.getString(R.string.sight_imperial_phone),
-                context.getString(R.string.sight_imperial_schedule),
+                context.getString(R.string.sight_goldreefcity_name),
+                context.getString(R.string.sight_goldreefcity_description),
+                context.getString(R.string.sight_goldreefcity_address),
+                context.getString(R.string.sight_goldreefcity_phone),
+                context.getString(R.string.sight_goldreefcity_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_goldreefcity
         ));

@@ -5,11 +5,9 @@
     <!-- App Tab Names -->
     <string name="category_sights">Sights</string>
     <string name="category_info">Info</string>
-    <string name="category_shops">Shops</string>
+    <string name="category_events">Events</string>
     <string name="category_food">Food</string>
 
-    <!-- All Extra Info About the Tourist Sight-->
-    <!-- All Shops -->
 
     <!-- All Restaurants(Food Places) -->
               <!-- Restaurant 1  -->
@@ -61,6 +59,14 @@
     <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
     <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
     <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
+
+
+
+
+
+
+
+    <!-- All Extra Info About the Tourist Location-->
     <string name="info_internet_name">Internet</string>
     <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
         It is very convenient when travelling since most of the hotels have limited internet access.
@@ -82,6 +88,15 @@
         to the reader.
         \n\nThe Suica card was created by JR East, but can also be used throughout Japan
         on the other prepaid card networks like Pasmo.</string>
+
+
+
+
+
+
+
+
+    <!-- All Events -->
     <string name="shop_potato_name">Super Potato</string>
     <string name="shop_potato_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
     <string name="shop_potato_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
@@ -142,15 +157,18 @@
     <string name="sight_humankind_price">R60 - R175</string>
 
 
-
-    <string name="sight_imperial_name">Tokyo Imperial Palace</string>
-    <string name="sight_imperial_description">It is a large park-like area that contains buildings
+                 <!-- Sight Location 2 -->
+    <string name="sight_goldreefcity_name">Gold Reef City</string>
+    <string name="sight_goldreefcity_description">It is a large park-like area that contains buildings
         including the main palace, the private residences of the Imperial Family, an archive,
         museums and administrative offices.</string>
-    <string name="sight_imperial_address">1-1 Chiyoda, Tokyo 100-8111</string>
-    <string name="sight_imperial_phone">+81 3-3213-1111</string>
-    <string name="sight_imperial_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
+    <string name="sight_goldreefcity_address">1-1 Chiyoda, Tokyo 100-8111</string>
+    <string name="sight_goldreefcity_phone">+81 3-3213-1111</string>
+    <string name="sight_goldreefcity_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
     <string name="sight_price_free">Free</string>
+
+
+                     <!-- Sight Location 3 -->
     <string name="sight_yasukuni_name">Yasukuni Shrine</string>
     <string name="sight_yasukuni_description">Shinto shrine founded by Emperor Meiji. Commemorates
         those who died in service of the Empire of Japan, which existed from the Meiji
@@ -158,6 +176,9 @@
     <string name="sight_yasukuni_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
     <string name="sight_yasukuni_phone">+81 3-3261-8326</string>
     <string name="sight_yasukuni_schedule">Always open</string>
+
+
+                 <!-- Sight Location 4 -->
     <string name="sight_koishikawa_name">Koishikawa Korakuen Garden</string>
     <string name="sight_koishikawa_description">Edo period clan garden, one of Tokyo\'s oldest
         gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
@@ -165,6 +186,9 @@
     <string name="sight_koishikawa_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
     <string name="sight_koishikawa_phone">+81 3-3811-3015</string>
     <string name="sight_koishikawa_schedule">9:00-17:00</string>
+
+
+                 <!-- Sight Location 5 -->
     <string name="sight_hie_shrine_name">Hie Shrine</string>
     <string name="sight_hie_shrine_description">Shinto Shrine dedicated to the god Ōyamakui-no-kam.
         It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
@@ -172,6 +196,10 @@
     <string name="sight_hie_shrine_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
     <string name="sight_hie_shrine_phone">+81 3-3581-2471</string>
     <string name="sight_hie_shrine_schedule">5:00–18:00</string>
+
+
+
+                   <!-- Sight Location 6 -->
     <string name="sight_hachikou_name">Hachikō statue</string>
     <string name="sight_hachikou_description">Statue of the Akita dog Hachik\ō. He is remembered
         for his remarkable loyalty to his owner which continued for more than nine years
@@ -179,6 +207,9 @@
     <string name="sight_hachikou_address">1 Dogenzaka, Shibuya Train Station, Shibuya 150-0043</string>
     <string name="sight_hachikou_phone">+81 3-3378-1703</string>
     <string name="sight_hachikou_schedule">Always open</string>
+
+
+                        <!-- Sight Location 7 -->
     <string name="sight_government_building_name">Tokyo Metropolitan Government building</string>
     <string name="sight_government_building_description">Headquarters of the Tokyo Metropolitan
         Government. It has a free observatory on the 45th floor of both the

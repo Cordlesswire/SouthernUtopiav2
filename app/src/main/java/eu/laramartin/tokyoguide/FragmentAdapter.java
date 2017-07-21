@@ -22,7 +22,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return new FoodFragment();
         } else if (position == 2){
-            return new ShopsFragment();
+            return new EventsFragment();
         } else {
             return new InfoFragment();
         }
@@ -40,7 +40,7 @@ public class FragmentAdapter extends FragmentPagerAdapter {
         } else if (position == 1) {
             return context.getString(R.string.category_food);
         } else if (position == 2) {
-            return context.getString(R.string.category_shops);
+            return context.getString(R.string.category_events);
         } else {
             return context.getString(R.string.category_info);
         }

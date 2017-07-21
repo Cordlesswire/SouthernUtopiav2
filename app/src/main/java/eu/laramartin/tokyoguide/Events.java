@@ -6,7 +6,7 @@ import java.util.List;
 
 
 
-public class Shops {
+public class Events {
 
     public static void initShopsList(List<Location> list, Context context) {
 
