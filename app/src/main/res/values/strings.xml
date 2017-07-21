@@ -168,7 +168,7 @@
                   <!-- Sight Location 1 -->
     <string name="sight_humankind_name">The Cradle of Humankind</string>
     <string name="sight_humankind_description">The Cradle of Humankind is renowned as the place where humankind originated.</string>
-    <string name="sight_humankind_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
+    <string name="sight_humankind_address">Maropeng</string>
     <string name="sight_humankind_phone">+27 11 339 1005</string>
     <string name="sight_humankind_schedule">Open from 09:00-17:00 Everyday</string>
     <string name="sight_humankind_price">R60(kids) - R175</string>
@@ -176,10 +176,8 @@
 
                  <!-- Sight Location 2 -->
     <string name="sight_goldreefcity_name">Gold Reef City</string>
-    <string name="sight_goldreefcity_description">It is a large park-like area that contains buildings
-        including the main palace, the private residences of the Imperial Family, an archive,
-        museums and administrative offices.</string>
-    <string name="sight_goldreefcity_address">1-1 Chiyoda, Tokyo 100-8111</string>
+    <string name="sight_goldreefcity_description">Gold Reef City is one of South Africa’s top family attractions. Reminiscent of an authentic turn-of-the-century mining town and conveniently located just 8 kilometers from the centre of Johannesburg.</string>
+    <string name="sight_goldreefcity_address">Northern Pkwy and Data Cres, Ormonde 99-Ir, Johannesburg, 2159</string>
     <string name="sight_goldreefcity_phone">+27 11 339 1005</string>
     <string name="sight_goldreefcity_schedule"> bvhm</string>
     <string name="sight_goldreefcity_price">R60 - R175</string>
