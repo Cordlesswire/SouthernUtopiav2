@@ -204,13 +204,11 @@
 
                  <!-- Sight Location 5 -->
     <string name="sight_soccercity_name">Soccer City Stadium</string>
-    <string name="sight_soccercity_description">Shinto Shrine dedicated to the god Ōyamakui-no-kam.
-        It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
-        scrappers.</string>
-    <string name="sight_soccercity_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
-    <string name="sight_soccercity_phone">+27 11 339 1005</string>
-    <string name="sight_soccercity_schedule">5:00–18:00</string>
-    <string name="sight_soccercity_price">Free</string>
+    <string name="sight_soccercity_description">First National Bank Stadium or simply FNB Stadium, also known as Soccer City and The Calabash, is a stadium located in Nasrec, bordering the Soweto area of Johannesburg, South Africa. Soccer City hosted the first and last match of the 2010 FIFA World CupTM, including the opening and closing ceremonies. </string>
+    <string name="sight_soccercity_address">Nasrec, Johannesburg, 2147</string>
+    <string name="sight_soccercity_phone">+27 11 247 5300</string>
+    <string name="sight_soccercity_schedule">Time Varies </string>
+    <string name="sight_soccercity_price">Tours: R60.00 and Matchday Fee: R40.00</string>
 
 
 
