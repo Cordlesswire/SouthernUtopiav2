@@ -164,16 +164,14 @@
 
 
 
-
-
      <!-- All Sights -->
                   <!-- Sight Location 1 -->
     <string name="sight_humankind_name">The Cradle of Humankind</string>
     <string name="sight_humankind_description">The Cradle of Humankind is renowned as the place where humankind originated.</string>
     <string name="sight_humankind_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
     <string name="sight_humankind_phone">+27 11 339 1005</string>
-    <string name="sight_humankind_schedule">10:00–18:00. Tuesdays closed.</string>
-    <string name="sight_humankind_price">R60 - R175</string>
+    <string name="sight_humankind_schedule">Open from 09:00-17:00 Everyday</string>
+    <string name="sight_humankind_price">R60(kids) - R175</string>
 
 
                  <!-- Sight Location 2 -->
