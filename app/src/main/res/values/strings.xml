@@ -67,11 +67,11 @@
 
             <!-- Restaurant 7  -->
     <string name="food_vuyosbraai_name">Vuyo’s Braai</string>
-    <string name="food_vuyosbraai_description">Ambiance: Authentic culture, Comfy and Casual. \n Food: African, Deli fare, South African </string>
-    <string name="food_vuyosbraai_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
-    <string name="food_vuyosbraai_phone">+27 81 797-5756</string>
-    <string name="food_vuyosbraai_schedule">Mo-Su 11:00–22:00</string>
-    <string name="food_vuyosbraai_price">R80.00 Average Meal</string>
+    <string name="food_vuyosbraai_description">Ambiance: Street Culture. \n Food: African, Deli fare, South African </string>
+    <string name="food_vuyosbraai_address">Corner Stiemens Street and Bertha Street, Braamfontein, Johannesburg</string>
+    <string name="food_vuyosbraai_phone">+27 11 403-1920</string>
+    <string name="food_vuyosbraai_schedule">Mo-Su 08:30–18:00</string>
+    <string name="food_vuyosbraai_price">R20.00 Average Meal</string>
 
 
 
