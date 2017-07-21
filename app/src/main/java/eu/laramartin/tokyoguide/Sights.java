@@ -51,11 +51,11 @@ public class Sights {
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_hie_shrine_name),
-                context.getString(R.string.sight_hie_shrine_description),
-                context.getString(R.string.sight_hie_shrine_address),
-                context.getString(R.string.sight_hie_shrine_phone),
-                context.getString(R.string.sight_hie_shrine_schedule),
+                context.getString(R.string.sight_soccercity_name),
+                context.getString(R.string.sight_soccercity_description),
+                context.getString(R.string.sight_soccercity_address),
+                context.getString(R.string.sight_soccercity_phone),
+                context.getString(R.string.sight_soccercity_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_soccercity
         ));

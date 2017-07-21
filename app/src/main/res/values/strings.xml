@@ -189,13 +189,13 @@
 
 
                  <!-- Sight Location 5 -->
-    <string name="sight_hie_shrine_name">Hie Shrine</string>
-    <string name="sight_hie_shrine_description">Shinto Shrine dedicated to the god Ōyamakui-no-kam.
+    <string name="sight_soccercity_name">Soccer City Stadium</string>
+    <string name="sight_soccercity_description">Shinto Shrine dedicated to the god Ōyamakui-no-kam.
         It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
         scrappers.</string>
-    <string name="sight_hie_shrine_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
-    <string name="sight_hie_shrine_phone">+81 3-3581-2471</string>
-    <string name="sight_hie_shrine_schedule">5:00–18:00</string>
+    <string name="sight_soccercity_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
+    <string name="sight_soccercity_phone">+81 3-3581-2471</string>
+    <string name="sight_soccercity_schedule">5:00–18:00</string>
 
 
 
