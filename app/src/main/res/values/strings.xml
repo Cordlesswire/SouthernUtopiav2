@@ -13,11 +13,10 @@
               <!-- Restaurant 1  -->
     <string name="food_genki_name">Genki Sushi</string>
     <string name="food_genki_description">Sushi restaurant. Choose the food on the screen in your
-        table and recieve your order via conveyor belt.</string>
+        table and receive your order via conveyor belt.</string>
     <string name="food_genki_address">24-8 Udagawacho, Shibuya, Tokyo 150-0042</string>
     <string name="food_genki_phone">+81 3-3461-1281</string>
     <string name="food_genki_schedule">Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00</string>
-    <string name="food_price_two">$$</string>
 
 
               <!-- Restaurant 2  -->
@@ -36,7 +35,6 @@
     <string name="food_rokumonya_schedule">Mo-Su 11:30–23:30</string>
 
 
-    <string name="food_price_four">$$$$</string>
 
             <!-- Restaurant 4  -->
     <string name="food_kisoji_name">Kisoji</string>
@@ -46,7 +44,6 @@
     <string name="food_kisoji_schedule">Mo-Su 11:30–14:30 and 17:30-21:30</string>
 
 
-    <string name="food_price_one">$</string>
 
             <!-- Restaurant 5  -->
     <string name="food_gogo_name">Gogo curry</string>
@@ -71,6 +68,12 @@
     <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
     <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
     <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
+
+
+    <!-- Prices -->
+    <string name="food_price_one">$</string>
+    <string name="food_price_two">$$</string>
+    <string name="food_price_four">$$$$</string>
 
 
 
@@ -114,54 +117,54 @@
 
     <!-- All Events -->
     <!-- Event 1 -->
-    <string name="shop_potato_name">Back To The City</string>
-    <string name="shop_potato_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
-    <string name="shop_potato_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
-    <string name="shop_potato_phone">+81 3-5289-9933</string>
-    <string name="shop_potato_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
+    <string name="events_backtothecity_name">Back To The City</string>
+    <string name="events_backtothecity_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
+    <string name="events_backtothecity_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="events_backtothecity_phone">+81 3-5289-9933</string>
+    <string name="events_backtothecity_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
 
     <!-- Event 2 -->
-    <string name="shop_amiami_name">Amiami</string>
-    <string name="shop_amiami_description">Hobbies supply shop, like figures and character goods.
+    <string name="events_dinnerinthesky_name">Dinner in The Sky</string>
+    <string name="events_dinnerinthesky_description">Hobbies supply shop, like figures and character goods.
         Selling of second hand items too.</string>
-    <string name="shop_amiami_address">1 Chome-11-5 Sotokanda, , Chiyoda-ku, Tokyo 101-0021</string>
-    <string name="shop_amiami_phone">+81 3-5289-3373</string>
-    <string name="shop_amiami_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_dinnerinthesky_address">1 Chome-11-5 Sotokanda, , Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="events_dinnerinthesky_phone">+81 3-5289-3373</string>
+    <string name="events_dinnerinthesky_schedule">Mo-Su 10:00–21:00</string>
 
     <!-- Event 3 -->
-    <string name="shop_nakano_name">Nakano Broadway</string>
-    <string name="shop_nakano_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
-    <string name="shop_nakano_address">5-52-15 Nakano, Tokyo 164-0001</string>
-    <string name="shop_nakano_phone">+81 3-3388-7004</string>
-    <string name="shop_nakano_schedule">Mo-Su 12:00–20:00</string>
+    <string name="events_jozibookfair_name">Jozi Book Fair</string>
+    <string name="events_jozibookfair_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
+    <string name="events_jozibookfair_address">5-52-15 Nakano, Tokyo 164-0001</string>
+    <string name="events_jozibookfair_phone">+81 3-3388-7004</string>
+    <string name="events_jozibookfair_schedule">Mo-Su 12:00–20:00</string>
 
     <!-- Event 4 -->
-    <string name="shop_kiddy_name">Kiddy Land</string>
-    <string name="shop_kiddy_description">Toy shop since 1950</string>
-    <string name="shop_kiddy_address">6-1-9 Jingumae, Shibuya, Tokyo 150-0001</string>
-    <string name="shop_kiddy_phone">+81 3-3409-3431</string>
-    <string name="shop_kiddy_schedule">Mo-Su 10:30–21:00</string>
+    <string name="events_outdoorscreening_name">Outdoor Movie Screening</string>
+    <string name="events_outdoorscreening_description">Toy shop since 1950</string>
+    <string name="events_outdoorscreening_address">6-1-9 Jingumae, Shibuya, Tokyo 150-0001</string>
+    <string name="events_outdoorscreening_phone">+81 3-3409-3431</string>
+    <string name="events_outdoorscreening_schedule">Mo-Su 10:30–21:00</string>
 
     <!-- Event 5 -->
-    <string name="shop_daiso_name">Daiso</string>
-    <string name="shop_daiso_description">Biggest 100 yen shop.</string>
-    <string name="shop_daiso_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
-    <string name="shop_daiso_phone">+81 3-5312-6656</string>
-    <string name="shop_daiso_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_sowetotheatre_name">Soweto Theatre</string>
+    <string name="events_sowetotheatre_description">Biggest 100 yen shop.</string>
+    <string name="events_sowetotheatre_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
+    <string name="events_sowetotheatre_phone">+81 3-5312-6656</string>
+    <string name="events_sowetotheatre_schedule">Mo-Su 10:00–21:00</string>
 
     <!-- Event 6 -->
-    <string name="shop_mandarake_name">Mandarake</string>
-    <string name="shop_mandarake_description">Anime and manga second hand shop.</string>
-    <string name="shop_mandarake_address">3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021</string>
-    <string name="shop_mandarake_phone">+81 3-3252-7007</string>
-    <string name="shop_mandarake_schedule">Mo-Su 12:00–21:00</string>
+    <string name="events_strcrd_name">Str Crd</string>
+    <string name="events_strcrd_description">Anime and manga second hand shop.</string>
+    <string name="events_strcrd_address">3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021</string>
+    <string name="events_strcrd_phone">+81 3-3252-7007</string>
+    <string name="events_strcrd_schedule">Mo-Su 12:00–21:00</string>
 
     <!-- Event 7 -->
-    <string name="shop_kinokuniya_name">Kinokuniya Shinjuku Main Store</string>
-    <string name="shop_kinokuniya_description">Bookstore with 9 floors.</string>
-    <string name="shop_kinokuniya_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
-    <string name="shop_kinokuniya_phone">+81 3-3354-0131</string>
-    <string name="shop_kinokuniya_schedule">Mo-Su 10:00–21:00</string>
+    <string name="events_vsgaming_name">VS Gaming Festival</string>
+    <string name="events_vsgaming_description">Bookstore with 9 floors.</string>
+    <string name="events_vsgaming_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
+    <string name="events_vsgaming_phone">+81 3-3354-0131</string>
+    <string name="events_vsgaming_schedule">Mo-Su 10:00–21:00</string>
 
 
 
