@@ -176,33 +176,29 @@
 
                  <!-- Sight Location 2 -->
     <string name="sight_goldreefcity_name">Gold Reef City</string>
-    <string name="sight_goldreefcity_description">Gold Reef City is one of South Africa’s top family attractions. Reminiscent of an authentic turn-of-the-century mining town and conveniently located just 8 kilometers from the centre of Johannesburg.</string>
+    <string name="sight_goldreefcity_description">Gold Reef City is one of South Africa’s top family attractions. Reminiscent of an authentic turn-of-the-century mining town and conveniently located just 8 kilometers from the centre of Johannesburg. More than 30 roller coasters and thrill rides, an interactive history of gold mining and a 4D theater.</string>
     <string name="sight_goldreefcity_address">Northern Pkwy and Data Cres, Ormonde 99-Ir, Johannesburg, 2159</string>
-    <string name="sight_goldreefcity_phone">+27 11 339 1005</string>
-    <string name="sight_goldreefcity_schedule"> bvhm</string>
-    <string name="sight_goldreefcity_price">R60 - R175</string>
+    <string name="sight_goldreefcity_phone">+27 11 248 6800</string>
+    <string name="sight_goldreefcity_schedule"> 09:30-17:00</string>
+    <string name="sight_goldreefcity_price">R100.00-R340.00</string>
 
 
 
                      <!-- Sight Location 3 -->
     <string name="sight_maboneng_name">Maboneng</string>
-    <string name="sight_maboneng_description">Shinto shrine founded by Emperor Meiji. Commemorates
-        those who died in service of the Empire of Japan, which existed from the Meiji
-        Restoration of 1869 until the nation was renamed during the Allied occupation in 1947.</string>
-    <string name="sight_maboneng_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
-    <string name="sight_maboneng_phone">+27 11 339 1005</string>
+    <string name="sight_maboneng_description">The heart and essence of the city of Joburg. With its beginnings in art, Maboneng has evolved into a collaborative hub of culture, business and lifestyle that entices curiosity, encourages exploration and promotes a sense of urban togetherness.</string>
+    <string name="sight_maboneng_address">286 Fox St and Kruger St, Jeppestown, Johannesburg, 2094</string>
+    <string name="sight_maboneng_phone">+27 86 133 3444</string>
     <string name="sight_maboneng_schedule">Always open</string>
     <string name="sight_maboneng_price">Free</string>
 
 
                  <!-- Sight Location 4 -->
     <string name="sight_mandelabridge_name">Nelson Mandela Bridge</string>
-    <string name="sight_mandelabridge_description">Edo period clan garden, one of Tokyo\'s oldest
-        gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
-        after achieving happiness for his people.</string>
-    <string name="sight_mandelabridge_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
+    <string name="sight_mandelabridge_description">The Nelson Mandela Bridge is a bridge in Johannesburg, South Africa. It was completed in 2003, and cost R102-120 million to build. Named Nelson Mandela bridge in recognition of the role Nelson Mandela was having in uniting South African society, and the symbolism of linkage and unity provided by the bridge.</string>
+    <string name="sight_mandelabridge_address">Smit St, Johannesburg, 2000</string>
     <string name="sight_mandelabridge_phone">+27 11 339 1005</string>
-    <string name="sight_mandelabridge_schedule">9:00-17:00</string>
+    <string name="sight_mandelabridge_schedule">Always Open</string>
     <string name="sight_mandelabridge_price">Free</string>
 
 
