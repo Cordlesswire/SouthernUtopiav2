@@ -169,23 +169,23 @@
 
 
                      <!-- Sight Location 3 -->
-    <string name="sight_yasukuni_name">Yasukuni Shrine</string>
-    <string name="sight_yasukuni_description">Shinto shrine founded by Emperor Meiji. Commemorates
+    <string name="sight_maboneng_name">Maboneng</string>
+    <string name="sight_maboneng_description">Shinto shrine founded by Emperor Meiji. Commemorates
         those who died in service of the Empire of Japan, which existed from the Meiji
         Restoration of 1869 until the nation was renamed during the Allied occupation in 1947.</string>
-    <string name="sight_yasukuni_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
-    <string name="sight_yasukuni_phone">+81 3-3261-8326</string>
-    <string name="sight_yasukuni_schedule">Always open</string>
+    <string name="sight_maboneng_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
+    <string name="sight_maboneng_phone">+81 3-3261-8326</string>
+    <string name="sight_maboneng_schedule">Always open</string>
 
 
                  <!-- Sight Location 4 -->
-    <string name="sight_koishikawa_name">Koishikawa Korakuen Garden</string>
-    <string name="sight_koishikawa_description">Edo period clan garden, one of Tokyo\'s oldest
+    <string name="sight_mandelabridge_name">Mandela Bridge</string>
+    <string name="sight_mandelabridge_description">Edo period clan garden, one of Tokyo\'s oldest
         gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
         after achieving happiness for his people.</string>
-    <string name="sight_koishikawa_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
-    <string name="sight_koishikawa_phone">+81 3-3811-3015</string>
-    <string name="sight_koishikawa_schedule">9:00-17:00</string>
+    <string name="sight_mandelabridge_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
+    <string name="sight_mandelabridge_phone">+81 3-3811-3015</string>
+    <string name="sight_mandelabridge_schedule">9:00-17:00</string>
 
 
                  <!-- Sight Location 5 -->

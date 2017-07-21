@@ -31,21 +31,21 @@ public class Sights {
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_yasukuni_name),
-                context.getString(R.string.sight_yasukuni_description),
-                context.getString(R.string.sight_yasukuni_address),
-                context.getString(R.string.sight_yasukuni_phone),
-                context.getString(R.string.sight_yasukuni_schedule),
+                context.getString(R.string.sight_maboneng_name),
+                context.getString(R.string.sight_maboneng_description),
+                context.getString(R.string.sight_maboneng_address),
+                context.getString(R.string.sight_maboneng_phone),
+                context.getString(R.string.sight_maboneng_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_maboneng
         ));
 
         list.add(new Location(
-                context.getString(R.string.sight_koishikawa_name),
-                context.getString(R.string.sight_koishikawa_description),
-                context.getString(R.string.sight_koishikawa_address),
-                context.getString(R.string.sight_koishikawa_phone),
-                context.getString(R.string.sight_koishikawa_schedule),
+                context.getString(R.string.sight_mandelabridge_name),
+                context.getString(R.string.sight_mandelabridge_description),
+                context.getString(R.string.sight_mandelabridge_address),
+                context.getString(R.string.sight_mandelabridge_phone),
+                context.getString(R.string.sight_mandelabridge_schedule),
                 context.getString(R.string.sight_price_free),
                 R.drawable.sight_mandelabridge
         ));
