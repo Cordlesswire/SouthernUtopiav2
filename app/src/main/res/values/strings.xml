@@ -3,87 +3,82 @@
     <string name="app_name">Southern Utopia</string>
 
     <!-- App Tab Names -->
-    <string name="category_sights">Sights</string>
-    <string name="category_info">Info</string>
     <string name="category_events">Events</string>
     <string name="category_food">Food</string>
+    <string name="category_info">Info</string>
+    <string name="category_sights">Sights</string>
 
 
     <!-- All Restaurants(Food Places) -->
               <!-- Restaurant 1  -->
-    <string name="food_genki_name">Genki Sushi</string>
-    <string name="food_genki_description">Sushi restaurant. Choose the food on the screen in your
-        table and receive your order via conveyor belt.</string>
-    <string name="food_genki_address">24-8 Udagawacho, Shibuya, Tokyo 150-0042</string>
-    <string name="food_genki_phone">+81 3-3461-1281</string>
-    <string name="food_genki_schedule">Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00</string>
+    <string name="food_chafpozi_name">Chaf-Pozi</string>
+    <string name="food_chafpozi_description">Ambiance: Authentic culture, Comfy and Casual. \n Food: African, Deli fare, South African </string>
+    <string name="food_chafpozi_address">Corner Chris Hani and Nicholas street, Orlando Towers, Soweto</string>
+    <string name="food_chafpozi_phone">+27 81 797-5756</string>
+    <string name="food_chafpozi_schedule">Mo-Fr 11:00–18:00. Sa-Su 11:00-22:00</string>
+    <string name="food_chafpozi_price">R80.00 Average Meal</string>
 
 
               <!-- Restaurant 2  -->
-    <string name="food_wako_name">Tonkatsu Wako</string>
-    <string name="food_wako_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
-    <string name="food_wako_address">AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091</string>
-    <string name="food_wako_phone">+81 3-3599-5144</string>
-    <string name="food_wako_schedule">\"Mo-Su 11:00–22:00</string>
+    <string name="food_licorish_name">Licorish Bistro</string>
+    <string name="food_licorish_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
+    <string name="food_licorish_address">AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091</string>
+    <string name="food_licorish_phone">+27 81 797-5756</string>
+    <string name="food_licorish_schedule">\"Mo-Su 11:00–22:00</string>
+    <string name="food_licorish_price">R80.00 Average Meal</string>
+
 
             <!-- Restaurant 3  -->
-    <string name="food_rokumonya_name">Rokumonya</string>
-    <string name="food_rokumonya_description">Restaurant specialised in Okonomiyaki, a Japanese
+    <string name="food_luckybean_name">Lucky Bean </string>
+    <string name="food_luckybean_description">Restaurant specialised in Okonomiyaki, a Japanese
         savoury pancake containing a variety of ingredients.</string>
-    <string name="food_rokumonya_address">3 Chome−35, Shinjuku, Tokyo 160-0022</string>
-    <string name="food_rokumonya_phone">+81 3-3356-6824</string>
-    <string name="food_rokumonya_schedule">Mo-Su 11:30–23:30</string>
+    <string name="food_luckybean_address">3 Chome−35, Shinjuku, Tokyo 160-0022</string>
+    <string name="food_luckybean_phone">+27 81 797-5756</string>
+    <string name="food_luckybean_schedule">Mo-Su 11:30–23:30</string>
+    <string name="food_luckybean_price">R80.00 Average Meal</string>
 
 
 
             <!-- Restaurant 4  -->
-    <string name="food_kisoji_name">Kisoji</string>
-    <string name="food_kisoji_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
-    <string name="food_kisoji_address">3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022</string>
-    <string name="food_kisoji_phone">+81 3-3226-0667</string>
-    <string name="food_kisoji_schedule">Mo-Su 11:30–14:30 and 17:30-21:30</string>
+    <string name="food_marble_name">Marble by David Higgs </string>
+    <string name="food_marble_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
+    <string name="food_marble_address">3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_marble_phone">+27 81 797-5756</string>
+    <string name="food_marble_schedule">Mo-Su 11:30–14:30 and 17:30-21:30</string>
+    <string name="food_marble_price">R80.00 Average Meal</string>
 
 
 
             <!-- Restaurant 5  -->
-    <string name="food_gogo_name">Gogo curry</string>
-    <string name="food_gogo_description">Restaurant specialised in Japanese curry with
+    <string name="food_patapata_name">Pata Pata Restaurant</string>
+    <string name="food_patapata_description">Restaurant specialised in Japanese curry with
         fried meat on top.</string>
-    <string name="food_gogo_address">1 Chome−161, Kanda Sakumacho, Chiyoda, Tokyo, 101-0025</string>
-    <string name="food_gogo_phone">+81 3-5256-5525</string>
-    <string name="food_gogo_schedule">Mo-Su 10:00–22:00</string>
+    <string name="food_patapata_address">1 Chome−161, Kanda Sakumacho, Chiyoda, Tokyo, 101-0025</string>
+    <string name="food_patapata_phone">+27 81 797-5756</string>
+    <string name="food_patapata_schedule">Mo-Su 10:00–22:00</string>
+    <string name="food_patapata_price">R80.00 Average Meal</string>
 
 
             <!-- Restaurant 6  -->
-    <string name="food_tenya_name">Tenya</string>
-    <string name="food_tenya_description">Restaurant specialised in Tendon, a bowl of rice with
+    <string name="food_thehill_name">The Hill Café</string>
+    <string name="food_thehill_description">Restaurant specialised in Tendon, a bowl of rice with
         tempura fried food on top.</string>
-    <string name="food_tenya_address">3 Chome−3−31−2, Shinjuku, Tokyo, 160-0022</string>
-    <string name="food_tenya_phone">+81 3-5269-7216</string>
-    <string name="food_tenya_schedule">Mo-Su 11:00–22:00</string>
+    <string name="food_thehill_address">3 Chome−3−31−2, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_thehill_phone">+27 81 797-5756</string>
+    <string name="food_thehill_schedule">Mo-Su 11:00–22:00</string>
+    <string name="food_thehill_price">R80.00 Average Meal</string>
 
             <!-- Restaurant 7  -->
-    <string name="food_shibukatsu_name">Shitukatsu</string>
-    <string name="food_shibukatsu_description">Tonkatsu place run by Agetarou\'s family. Agetarou is also known as Tonkatsu DJ.</string>
-    <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
-    <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
-    <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
-
-
-    <!-- Prices -->
-    <string name="food_price_one">$</string>
-    <string name="food_price_two">$$</string>
-    <string name="food_price_four">$$$$</string>
-
-
-
-
+    <string name="food_vuyosbraai_name">Shitukatsu</string>
+    <string name="food_vuyosbraai_description">Tonkatsu place run by Agetarou\'s family. Agetarou is also known as Tonkatsu DJ.</string>
+    <string name="food_vuyosbraai_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
+    <string name="food_vuyosbraai_phone">+27 81 797-5756</string>
+    <string name="food_vuyosbraai_schedule">Mo-Su 11:00–22:00</string>
+    <string name="food_vuyosbraai_price">R80.00 Average Meal</string>
 
 
 
     <!-- All Extra Info About the Tourist Location-->
-
-
     <string name="info_internet_name">Internet</string>
     <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
         It is very convenient when travelling since most of the hotels have limited internet access.
@@ -107,9 +102,6 @@
         to the reader.
         \n\nThe Suica card was created by JR East, but can also be used throughout Japan
         on the other prepaid card networks like Pasmo.</string>
-
-
-
 
 
 
