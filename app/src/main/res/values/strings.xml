@@ -1,9 +1,18 @@
 <resources>
-    <string name="app_name">Tokyo Guide</string>
+    <!-- App Name -->
+    <string name="app_name">Southern Utopia</string>
+
+    <!-- App Tab Names -->
     <string name="category_sights">Sights</string>
     <string name="category_info">Info</string>
     <string name="category_shops">Shops</string>
     <string name="category_food">Food</string>
+
+    <!-- All Extra Info About the Tourist Sight-->
+    <!-- All Shops -->
+
+    <!-- All Restaurants(Food Places) -->
+              <!-- Restaurant 1  -->
     <string name="food_genki_name">Genki Sushi</string>
     <string name="food_genki_description">Sushi restaurant. Choose the food on the screen in your
         table and recieve your order via conveyor belt.</string>
@@ -11,11 +20,15 @@
     <string name="food_genki_phone">+81 3-3461-1281</string>
     <string name="food_genki_schedule">Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00</string>
     <string name="food_price_two">$$</string>
+
+              <!-- Restaurant 2  -->
     <string name="food_wako_name">Tonkatsu Wako</string>
     <string name="food_wako_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
     <string name="food_wako_address">AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091</string>
     <string name="food_wako_phone">+81 3-3599-5144</string>
     <string name="food_wako_schedule">\"Mo-Su 11:00–22:00</string>
+
+
     <string name="food_rokumonya_name">Rokumonya</string>
     <string name="food_rokumonya_description">Restaurant specialised in Okonomiyaki, a Japanese
         savoury pancake containing a variety of ingredients.</string>
@@ -23,6 +36,8 @@
     <string name="food_rokumonya_phone">+81 3-3356-6824</string>
     <string name="food_rokumonya_schedule">Mo-Su 11:30–23:30</string>
     <string name="food_price_four">$$$$</string>
+
+
     <string name="food_kisoji_name">Kisoji</string>
     <string name="food_kisoji_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
     <string name="food_kisoji_address">3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022</string>
@@ -113,12 +128,21 @@
     <string name="shop_donki_address">1 Chome-12-6 Okubo, Shinjuku Tokyo 169-0072</string>
     <string name="shop_donki_phone">+81 3-5292-7411</string>
     <string name="shop_donki_schedule">Mo-Su 10:00–22:00</string>
-    <string name="sight_ghibli_name">Ghibli Museum</string>
-    <string name="sight_ghibli_description">Museum showcasing the work of the Japanese animation studio Studio Ghibli.</string>
-    <string name="sight_ghibli_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
-    <string name="sight_ghibli_phone">+81 570-055-777</string>
-    <string name="sight_ghibli_schedule">10:00–18:00. Tuesdays closed.</string>
-    <string name="sight_ghibli_price">110-330¥</string>
+
+
+
+
+     <!-- All Sights -->
+                  <!-- Sight Location 1 -->
+    <string name="sight_humankind_name">The Cradle of Humankind</string>
+    <string name="sight_humankind_description">The Cradle of Humankind is renowned as the place where humankind originated.</string>
+    <string name="sight_humankind_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
+    <string name="sight_humankind_phone">+81 570-055-777</string>
+    <string name="sight_humankind_schedule">10:00–18:00. Tuesdays closed.</string>
+    <string name="sight_humankind_price">R60 - R175</string>
+
+
+
     <string name="sight_imperial_name">Tokyo Imperial Palace</string>
     <string name="sight_imperial_description">It is a large park-like area that contains buildings
         including the main palace, the private residences of the Imperial Family, an archive,
