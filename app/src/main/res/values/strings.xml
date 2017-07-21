@@ -59,11 +59,11 @@
 
             <!-- Restaurant 6  -->
     <string name="food_thehill_name">The Hill Café</string>
-    <string name="food_thehill_description">Ambiance: Authentic culture, Comfy and Casual. \n Food: African, Deli fare, South African </string>
+    <string name="food_thehill_description">Ambiance: Comfy and Casual, Family friendly. \n Food: Café fare, Coffee </string>
     <string name="food_thehill_address">11 Kotze Street, Braamfontein, Johannesburg</string>
-    <string name="food_thehill_phone">+27 81 797-5756</string>
-    <string name="food_thehill_schedule">Mo-Su 11:00–22:00</string>
-    <string name="food_thehill_price">R80.00 Average Meal</string>
+    <string name="food_thehill_phone">+27 11 339-1005</string>
+    <string name="food_thehill_schedule">Mo-Fr 08:00–17:00</string>
+    <string name="food_thehill_price">R45.00 Average Meal</string>
 
             <!-- Restaurant 7  -->
     <string name="food_vuyosbraai_name">Vuyo’s Braai</string>
