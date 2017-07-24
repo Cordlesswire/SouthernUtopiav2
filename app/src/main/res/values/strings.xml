@@ -223,7 +223,7 @@
 
                         <!-- Sight Location 7 -->
     <string name="sight_union_buildings_name">Union Buildings</string>
-    <string name="sight_union_buildings_description">  </string>
+    <string name="sight_union_buildings_description">Pretoria’s Union Buildings, the official seat of the national government, house the offices of the South African president. The Union Buildings have been the backdrop for some of the country’s most pivotal moments such as the 20 000 strong march on August 9, 1956, led by South African women of all races protesting against the apartheid pass laws.</string>
     <string name="sight_union_buildings_address">Government Ave, Elandspoort 357-Jr, Pretoria, 0002</string>
     <string name="sight_union_buildings_phone">+27 12 300 5200</string>
     <string name="sight_union_buildings_schedule">Daily - 24 hours</string>
