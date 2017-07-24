@@ -171,7 +171,7 @@
     <string name="sight_humankind_address">Maropeng</string>
     <string name="sight_humankind_phone">+27 11 339 1005</string>
     <string name="sight_humankind_schedule">Open from 09:00-17:00 Everyday</string>
-    <string name="sight_humankind_price">R60(kids) - R175</string>
+    <string name="sight_humankind_price">R60.00(kids) - R175.00</string>
 
 
                  <!-- Sight Location 2 -->
@@ -214,18 +214,18 @@
 
                    <!-- Sight Location 6 -->
     <string name="sight_soweto_bungee_name">Orlando Towers</string>
-    <string name="sight_soweto_bungee_description">First National Bank Stadium or simply FNB Stadium, also known as Soccer City and The Calabash, is a stadium located in Nasrec, bordering the Soweto area of Johannesburg, South Africa. Soccer City hosted the first and last match of the 2010 FIFA World CupTM, including the opening and closing ceremonies.</string>
-    <string name="sight_soweto_bungee_address">Nasrec, Johannesburg, 2147</string>
-    <string name="sight_soweto_bungee_phone">+27 11 339 1005</string>
-    <string name="sight_soweto_bungee_schedule">Always open</string>
-    <string name="sight_soweto_bungee_price">Free</string>
+    <string name="sight_soweto_bungee_description">Orlando Towers offers extreme adrenaline activities (Bungee Jump, Paintball and Wall Climbing). </string>
+    <string name="sight_soweto_bungee_address">Chris Hani Rd, Klipspruit 318-Iq, Johannesburg, 1809</string>
+    <string name="sight_soweto_bungee_phone">+27 71 674 4343</string>
+    <string name="sight_soweto_bungee_schedule">11:00-17:00</string>
+    <string name="sight_soweto_bungee_price">R550.00 Per Person</string>
 
 
                         <!-- Sight Location 7 -->
     <string name="sight_union_buildings_name">Union Buildings</string>
-    <string name="sight_union_buildings_description">First National Bank Stadium or simply FNB Stadium, also known as Soccer City and The Calabash, is a stadium located in Nasrec, bordering the Soweto area of Johannesburg, South Africa. Soccer City hosted the first and last match of the 2010 FIFA World CupTM, including the opening and closing ceremonies.</string>
-    <string name="sight_union_buildings_address">Nasrec, Johannesburg, 2147</string>
-    <string name="sight_union_buildings_phone">+27 11 339 10051</string>
-    <string name="sight_union_buildings_schedule">8:00-18:45. Weekends closed</string>
+    <string name="sight_union_buildings_description">  </string>
+    <string name="sight_union_buildings_address">Government Ave, Elandspoort 357-Jr, Pretoria, 0002</string>
+    <string name="sight_union_buildings_phone">+27 12 300 5200</string>
+    <string name="sight_union_buildings_schedule">Daily - 24 hours</string>
     <string name="sight_union_buildings_price">Free</string>
 </resources>
